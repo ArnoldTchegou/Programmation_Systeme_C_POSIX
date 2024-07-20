@@ -1,5 +1,3 @@
-//MARYAM AIT DAOUD et ARNOLD NGNOUBA NDIE TCHEGOU
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
