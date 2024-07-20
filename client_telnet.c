@@ -1,5 +1,3 @@
-//MARYAM AIT DAOUD et ARNOLD NGNOUBA NDIE TCHEGOU
-
 #include <stdio.h>  /* printf */
 #include <stdlib.h> /* EXIT_ */
 #include <string.h> /* memset */
